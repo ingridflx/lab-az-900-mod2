@@ -1,13 +1,13 @@
 # Componentes de Arquitetura do Azure - 1° Lab do Módulo 2
 Este repositório contém o material prático do **1° laboratório do Módulo 2** do curso AZ-900, focado em componentes de arquitetura e criação de recursos básicos na nuvem.
 ## Objetivos do Lab
-- Visualizar o **mapa de regiões do Azure** utilizando o [datacenters.microsoft.com.br](https://datacenters.microsoft.com.br).  
+- Visualizar o **mapa de regiões do Azure** utilizando o [datacenters.microsoft.com](https://datacenters.microsoft.com).  
 - Criar e gerenciar **Grupos de Recursos**.  
 - Explorar o conteúdo dentro de um Grupo de Recursos.  
 - Criar uma **Virtual Network (VNet)** para interconectar recursos.
 ---
 ## 1. Mapa de Regiões do Azure
-O Azure possui diversos datacenters espalhados pelo mundo. No [datacenters.microsoft.com.br](https://datacenters.microsoft.com.br) é possível visualizar todas as **regiões disponíveis** e planejar a arquitetura considerando proximidade e latência.  
+O Azure possui diversos datacenters espalhados pelo mundo. No [datacenters.microsoft.com](https://datacenters.microsoft.com) é possível visualizar todas as **regiões disponíveis** e planejar a arquitetura considerando proximidade e latência.  
 ---
 ## 2. Criação de Grupo de Recursos
 Um **Grupo de Recursos** é um contêiner lógico que organiza recursos relacionados do Azure.  
